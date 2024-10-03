@@ -50,6 +50,32 @@ Once the installation and alias are set, verify that .NET 6.0 is properly instal
 Deploying KubernetesCLusterAPI on dotnet.
 
 1. Git clone project file and change directory to .cproj directory
+   ![image](https://github.com/user-attachments/assets/718366af-8d59-42f0-b645-0fcde884f9a7)
+    git clone https://github.com/Shrutie18/dotnet.git
+
+   cd dotnet/
+
+   sudo apt update
+   
+   cd KubernetesAutoClusterAPI/KubernetesAutoClusterAPI
+    Build the artifacts using publish command
+
+   dotnet publish
+
+   #artifact directory will be shown on terminal and file extension is .dll ( -- KubernetesAutoClusterAPI.dll )
+   
+   ![image](https://github.com/user-attachments/assets/6ba9824f-23ab-4ea5-8895-b3b83415f0b0)
+   Run the application:
+
+   dotnet run
+
+   ![image](https://github.com/user-attachments/assets/6eddb45d-34fb-46f6-b762-ad522348b6c5)
+
+   
+
+   
+
+
    
 
 

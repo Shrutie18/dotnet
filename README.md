@@ -87,6 +87,7 @@ Deploying KubernetesCLusterAPI on dotnet.
 
 
 hit the Ip of instance with port 5041
+
      <public IP>:5041
    
    ![image](https://github.com/user-attachments/assets/b0f75c17-10a9-4cf0-b5b3-6a9de777e887)
